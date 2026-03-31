@@ -1,5 +1,5 @@
 # ns3-simulation-RIT-mac
-# ns3-simulation-RIT-mac
+
 
 > ⚠️ **Project Status: Work In Progress**
 >
@@ -59,4 +59,3 @@ The framework evaluates protocol performance based on:
 
 ## 📝 Note
 
-This is a self-initiated implementation based on the architectural details and methodologies described in the referenced paper. It aims to support fair comparison and future research in **energy-harvesting** and **low-power wireless sensor networks (WSNs)**.
